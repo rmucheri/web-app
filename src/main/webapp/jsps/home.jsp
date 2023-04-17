@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
+<h1 align="center">Welcome to SOLVAXION, Calgary, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired with multiple job offers, Amen</h1>
 <hr>
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 587 574 2233,
 		info@acadalearning.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@acadalearning">Mail to PAUL</a>
 	</span>
 </div>
 <hr>
