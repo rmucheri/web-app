@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://52.23.228.161:3007/nexus/content/repositories/rufus3.0.0/</url>
+	      <url>http://52.23.228.161:3007/nexus/content/repositories/rufus3.0.0-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://52.23.228.161:3007/nexus/content/repositories/rufus-sh/</url>
+	      <url>http://52.23.228.161:3007/nexus/content/repositories/rufus-sh-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
